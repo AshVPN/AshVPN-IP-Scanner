@@ -32,7 +32,7 @@ It is incredibly simple to use. No installation required!
 ---
 
 ### 👨‍💻 Developed By
-**Ash** * ✈️ **Telegram Support & Updates:** [@WhiteIPCheck_Bot](https://t.me/WHITEIPCHECK_Bot)
+**Ash** * ✈️ **Telegram Bot:** [@WhiteIPCheck_Bot](https://t.me/WHITEIPCHECK_Bot)
 * 🌐 **GitHub:** [AshVPN](https://github.com/AshVPN)
 
 *Note: This tool is provided for educational and network diagnostics purposes.*
